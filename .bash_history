@@ -5,7 +5,11 @@ git config --global user.name "venkatasykam"
 git add .
 cd Addition/
 git add .
+
+git commit -m "first project sample changes for conflict in branch-1 setup in github"
+
 git commit -m "first project sample changes for conflict in master setup in github"
+
 git push
 git add AdditionCopy.java 
 git commit -m "added a addition copy java file"
