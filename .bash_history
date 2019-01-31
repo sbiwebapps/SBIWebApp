@@ -12,7 +12,11 @@ git commit -m "first project sample changes for conflict in master setup in gith
 
 git push
 git add AdditionCopy.java 
+
 git commit -m "added a addition copy *master changes* java file"
+
+git commit -m "added a addition *branch-1 changes* copy java file"
+
 git push
 git add AdditionCopy.java 
 git commit -m "updated Add copy javba file"
